@@ -17,7 +17,9 @@ Search by city name (supports Tokyo, 東京, etc.) Real-time weather data Clean,
 3. Add key in WeatherViewModel.swift > private let apiKey = "YOUR_KEY_HERE"
 
 一 リポジトリをクローン
+
 二 [OpenWeatherMap](https://openweathermap.org/api)でAPIキーを取得
+
 三 WeatherViewModel.swift にキーを追加 > private let apiKey = "あなたのキー"
 
 
