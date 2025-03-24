@@ -1,4 +1,4 @@
-# 🌤️ Weather App / 天気アプリ
+# 🌤️ iOS Weather App / 天気アプリ
 
 A weather application demonstrating API integration and SwiftUI development
 
